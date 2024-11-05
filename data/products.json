@@ -28,5 +28,11 @@
     "name": "Logitech G-Series Gaming Mouse",
     "description": "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
     "price": 49.99
+  },
+  {
+    "id": "a86f54a1-5f32-4fbe-823e-f09cff29a8c3",
+    "title": "some product",
+    "description": "some description",
+    "price": 1200
   }
 ]
